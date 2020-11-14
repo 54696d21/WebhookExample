@@ -6,7 +6,7 @@ this code example implements 2 urls that can be called to trigger a function
 
 ## Getting started
 
-1. git clone <this repo>
+1. git clone https://github.com/54696d21/WebhookExample
 
 2. fill in our wifi credentials 
 
